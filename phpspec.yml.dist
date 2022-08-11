@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Ikuzo\SyliusSupportPlugin
+        psr4_prefix: Ikuzo\SyliusSupportPlugin
